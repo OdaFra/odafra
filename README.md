@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, Python and its frameworks.**
 
-- 👨‍💻 All of my projects are available at [7-8550U](7-8550U)
-
 - 💬 Ask me about **Flutter, Dart, NodeJS, Python, Firebase, MongoDB, Docker**
 
 - 📫 How to reach me **os.ramirezf@gmail.com**
