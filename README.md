@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter, Dart, NodeJS, Python, Firebase, MongoDB, Docker**
 
-- 📫 How to reach me **os.ramirezf@gmail.com**
+- 📫 How to reach me **osramirezf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
