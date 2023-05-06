@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Python and its frameworks.**
 
-- 💬 Ask me about **Flutter, Dart, NodeJS, Python, Firebase, MongoDB, Docker**
+- 💬 Ask me about **Flutter, Dart, NodeJS, Firebase, MongoDB, Docker**
 
 - 📫 How to reach me **osramirezf@gmail.com**
 
