@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **projects in the banking financial sector**
 
-- 🌱 I’m currently learning **React, Python and its frameworks.**
+- 🌱 I’m currently learning **Stack MERN**
 
 - 💬 Ask me about **Flutter, Dart, NodeJS, Firebase, MongoDB, Docker, SQL, BI**
 
