@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar Ramirez</h1>
-<h3 align="center">I'm a software developer at ITTI DIGITAL in Asunción, PY</h3>
+<h3 align="center">I'm a Software Engineer  at TIGO in Asunción, PY</h3>
 
 - 🔭 I’m currently working on **projects related to architecture and integration of fusion middleware development services with the Oracle service bus**
 
