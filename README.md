@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **projects related to architecture and integration of fusion middleware development services with the Oracle service bus**
 
-- 🌱 I’m currently learning **Java (Spring Boot) & React**
+- 🌱 I’m currently learning **Java (Spring Boot)**
 
 - 💬 Ask me about **Flutter, Dart, NodeJS, Firebase, MongoDB, Docker, SQL, BI**
 
